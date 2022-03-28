@@ -1,0 +1,16 @@
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Data.deps.json
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Data.runtimeconfig.json
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Data.runtimeconfig.dev.json
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Data.dll
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Data.pdb
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\bin\Debug\netcoreapp3.1\GE.Domain.pdb
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.csproj.AssemblyReference.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.AssemblyInfoInputs.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.AssemblyInfo.cs
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.csproj.CoreCompileInputs.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.csproj.CopyComplete
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.dll
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.pdb
+C:\Users\maison info\source\repos\GestionEquipe\GE.Data\obj\Debug\netcoreapp3.1\GE.Data.genruntimeconfig.cache

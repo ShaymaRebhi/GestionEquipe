@@ -1,0 +1,10 @@
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.deps.json
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\bin\Debug\netcoreapp3.1\GE.Domain.pdb
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.csproj.AssemblyReference.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.AssemblyInfoInputs.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.AssemblyInfo.cs
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.dll
+C:\Users\maison info\source\repos\GestionEquipe\GE.Domain\obj\Debug\netcoreapp3.1\GE.Domain.pdb
